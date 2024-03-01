@@ -1,7 +1,6 @@
 "use strict";
 //assidment #1
 //stroing the person name ina variable
-let username = 'faisal hameed';
+let personName = `faisal hameed`;
 //printing massage to person
-console.log('Hello , would you like to learn some Python today?');
-console.log(username);
+console.log(`Hello,${personName} would you like to learn some Python today?`);
